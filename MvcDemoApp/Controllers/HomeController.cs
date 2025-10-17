@@ -15,7 +15,7 @@ namespace MvcDemoApp.Controllers
 
         public IActionResult Index()
         {
-            return View(); testing
+            return View();
         }
 
         public IActionResult Privacy()
